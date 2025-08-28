@@ -1,0 +1,37 @@
+[
+
+{   "produtos" : {
+        "prod123": "Notebook",
+        "prod124": "Tablet Samsung",
+        "prod125":"Smartphone Samsung"
+    } 
+},
+{
+    "vendedor":{
+        "vend456": "Bras",
+        "vend457": "Cubas",
+        "vend458": "Shibata da silva"
+    }
+},
+{
+    "preco":{
+        "preco789": "2550.00",
+        "preco790": "3199.00",
+        "preco791": "1999.00"
+    }
+},
+{
+    "cliente":{
+        "cliente01": "Poliana",
+        "cliente02": "Gustavo",
+        "cliente03": "Renan"
+    }
+},
+{
+    "imagemProdutos": {
+        "imagem001": "<img src='img/imagem01.webp' width=200px >",
+        "imagem002": "<img src='img/imagem02.webp' width=200px>",
+        "imagem003": "<img src='img/imagem03.webp' width=200px >"
+    }
+}
+]
